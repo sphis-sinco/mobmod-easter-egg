@@ -13,13 +13,15 @@ class MobmodEasterEgg extends FlxState
 
         var sphis = new FlxSprite();
         sphis.frames = FlxAtlasFrames.fromSparrow('assets/sphis-scare.png','assets/sphis-scare.xml');
-        sphis.animation.addByPrefix('scare', 'scare', 24);
+		sphis.animation.addByPrefix('scare', 'scare', 12, false);
 
         add(sphis);
 
+		sphis.animation.play('scare');
+		
         sphis.screenCenter();
+		sphis.x += sphis.width / 4;
 
-        sphis.animation.play('scare');
         sphis.animation.onFinish.add(an -> {
             #if sys
 			Sys.exit(0);
