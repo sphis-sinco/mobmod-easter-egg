@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sphis-scare.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="scare0000" x="1583" y="1839" width="117" height="107" frameX="-557" frameY="-389" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="scare0001" x="2371" y="1716" width="118" height="107" frameX="-556" frameY="-387" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="scare0002" x="2247" y="1716" width="124" height="108" frameX="-553" frameY="-378" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="scare0003" x="2112" y="1716" width="135" height="111" frameX="-547" frameY="-361" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="scare0004" x="1959" y="1716" width="153" height="116" frameX="-538" frameY="-333" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="scare0005" x="1398" y="1839" width="185" height="125" frameX="-520" frameY="-285" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="scare0006" x="1151" y="1839" width="247" height="145" frameX="-487" frameY="-193" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="scare0007" x="0" y="2029" width="403" height="194" frameX="-401" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="scare0008" x="1959" y="1448" width="563" height="268" frameX="-312" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="scare0009" x="1151" y="1448" width="808" height="391" frameX="-174" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="scare0010" x="0" y="1448" width="1151" height="581" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="scare0011" x="0" y="724" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="scare0012" x="1284" y="0" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="scare0013" x="1284" y="724" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="scare0014" x="0" y="0" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>
