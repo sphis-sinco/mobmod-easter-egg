@@ -20,7 +20,7 @@ class MobmodEasterEgg extends FlxState
 		sphis.animation.play('scare');
 		
         sphis.screenCenter();
-		sphis.x += sphis.width / 4;
+		sphis.x += sphis.width / 12;
 
         sphis.animation.onFinish.add(an -> {
             #if sys
