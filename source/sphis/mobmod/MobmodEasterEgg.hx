@@ -22,7 +22,7 @@ class MobmodEasterEgg extends FlxState
         sphis.animation.play('scare');
         sphis.animation.onFinish.add(an -> {
             #if sys
-            Sys.exit();
+			Sys.exit(0);
             #else
             trace("You're stuck here now");
             #end
